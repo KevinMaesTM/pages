@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "M+0ue2oIqnlG7FZ7pSAk1tuTXp0/zQXF/+pDQEkTpX3SmjwOqCFFOy0Xgp57IUxX9UYd1QI5OESD5wrGGFBH3w==",
+  "dgSpecHash": "CZb2IQnUa88MlI84OhX3jkNhkimz8hQjd74jJUCHELmU5IOUaJPce5nNJnCqAA0UHY+XV8wt3hf2ZDiCOaTHeA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kevin\\Desktop\\Oef Webapplicaties\\webassembly\\webassembly.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,7 @@
     "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.jsinterop\\6.0.11\\microsoft.jsinterop.6.0.11.nupkg.sha512",
     "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.11\\microsoft.jsinterop.webassembly.6.0.11.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\publishspaforgithubpages.build\\2.1.0\\publishspaforgithubpages.build.2.1.0.nupkg.sha512",
     "C:\\Users\\Kevin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\Kevin\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\Kevin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
